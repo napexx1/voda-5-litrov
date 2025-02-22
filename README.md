@@ -1,1 +1,3 @@
-# voda-5-litrov
+body {
+    font-family: sans-serif;
+}
